@@ -1,10 +1,4 @@
-# PROJECT-SO-ANDRI5.3
 
-## Processing user instructions  
-- The user provided instructions for Project 3: Backup Automation Script.
-</think>### Backup Automation Script
-
-Berikut adalah panduan lengkap untuk membuat script batch (.bat) sederhana di Windows untuk mengotomasi backup file penting. Script ini akan membuat folder backup berdasarkan tanggal, menyalin file, dan memverifikasi hasil. Ini cocok untuk backup rutin file kuliah, pekerjaan, atau dokumen pribadi.
 
 #### Langkah 1: Identifikasi File Penting
 Tentukan file atau folder yang perlu di-backup. Contoh:
